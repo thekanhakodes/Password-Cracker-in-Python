@@ -78,7 +78,6 @@ This tool is intended for **educational** and **ethical use only**. Do not use i
 ---
 
 ## 📜 LICENSE (MIT)
----------------------------
 This project is licensed under the **MIT License** — feel free to use, modify, or fork with credit.
 
 ---
