@@ -78,7 +78,7 @@ This tool is intended for **educational** and **ethical use only**. Do not use i
 ---
 
 ## 📜 LICENSE (MIT)
-This project is licensed under the **MIT License** — feel free to use, modify, or fork with credit.
+This project is licensed under the **[MIT License](https://github.com/thekanhakodes/Password-Cracker-in-Python/blob/main/License)** — feel free to use, modify, or fork with credit.
 
 ---
 
